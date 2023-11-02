@@ -1,5 +1,5 @@
 # TriviaGame-Demo 
-![App Logo](screenshots/app_logo.png)
+
 
 ## Introduction
 TriviaGame-Demo is an engaging iOS trivia game that tests your knowledge on a wide range of topics.
@@ -24,5 +24,4 @@ The app fetches trivia questions from the Open Trivia Database API (https://open
 ## Trivia Data
 The app fetches trivia questions from the Open Trivia Database API. You can modify the API endpoint and parameters in the `TriviaAPI.swift` file to customize the trivia data according to your preferences.
 
-```swift
-static let apiURL = "https://opentdb.com/api.php"
+
